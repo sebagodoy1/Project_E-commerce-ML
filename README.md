@@ -1,4 +1,4 @@
-# Project_E-commerce-ML - E-commerce Machine Learning Analysis
+# E-commerce Machine Learning Analysis
 
 ![Project_E-commerce-ML](path/to/your/image.png)
 

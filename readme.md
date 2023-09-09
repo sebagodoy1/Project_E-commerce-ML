@@ -1,6 +1,6 @@
 # E-commerce Machine Learning Analysis
 
-![Project_E-commerce-ML](path/to/your/image.png)
+![Project_E-commerce-ML](_src/assets/proyecto1.jpeg)
 
 Project_E-commerce-ML is a data analysis project that applies machine learning techniques to analyze trends and patterns in an e-commerce dataset. By utilizing machine learning algorithms, this project aims to uncover valuable insights that can drive business decisions within the e-commerce domain.
 
@@ -16,7 +16,7 @@ Project_E-commerce-ML is a data analysis project that applies machine learning t
 1. Clone the repository: `git clone https://github.com/sebagodoy1/Project_E-commerce-ML.git`
 2. Navigate to the project directory: `cd Project_E-commerce-ML`
 3. Install dependencies: `pip install -r requirements.txt`
-4. Run the analysis notebook: `jupyter notebook analysis.ipynb`
+4. Run the analysis notebook: `main.ipynb`
 
 ## Project Structure
 
